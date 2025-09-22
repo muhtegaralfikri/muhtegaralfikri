@@ -19,7 +19,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhtegaralfikri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Play Games With Me
+### Play Games With Me
 <img src="https://raw.githubusercontent.com/muhtegaralfikri/muhtegaralfikri/output/snake.svg" alt="Snake animation" />
 
 ###
