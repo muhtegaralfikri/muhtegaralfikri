@@ -6,7 +6,7 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:105841110722@student.unismuh.ac.id)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts,php,express,react,nest,next,postgres,mongodb,prisma,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,react,next,postgres,mongodb,prisma)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhtegaralfikri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
